@@ -1,0 +1,90 @@
+#header {
+    height: 600px;
+    background: url(../img/banner.jpg) no-repeat center;
+}
+
+/*new-product开始*/
+#new-product{
+    margin-top: 56px;
+    height: 266px;
+}
+#new-product .sale{
+    width: 360px;
+    height: 210px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 30px;
+
+}
+#new-product .bg1{
+    background-image: url(../img/bg1.jpg);
+}
+#new-product .bg2{
+    background-image: url(../img/bg2.jpg);
+}
+#new-product .bg3{
+    background-image: url(../img/bg3.jpg);
+    margin-right: 0;
+}
+#new-product .sale h4{
+    margin-top: 150px;
+    margin-left: 200px;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bolder;
+}
+/*new-product结束*/
+
+/*problem开始*/
+#problem{
+    height: 400px;
+    background: url(../img/banner2.jpg) no-repeat center;
+}
+#problem .wrapper{
+    width: 1000px;
+    /*background: #CCCCCC;*/
+}
+.problem-menu{
+    padding-left: 40px;
+    float: left;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+.problem-menu li {
+    list-style: disc;
+    color: #ffffff;
+    padding-top: 10px;
+}
+.problem-menu li a{
+    color: #ffffff;
+
+}
+.problem-menu li a:hover{
+    text-decoration: underline;
+}
+.problem-menu li a.menu-bold{
+    font-weight: bolder;
+}
+/*problem结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

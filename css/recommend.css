@@ -1,0 +1,54 @@
+
+#header{
+    background: url(../img/banner33.jpg) no-repeat center;
+    height: 250px;
+    background-size: cover;
+}
+#recommend{
+    height: 3200px;
+}
+#recommend h2{
+    margin-top: 30px;
+    font-size: 35px;
+}
+#recommend .recommend{
+    margin-top: 20px;
+}
+#recommend .recommend a{
+    color: #3c3b3b;
+    font-size: 24px;
+}
+#recommend .recommend a:hover{
+    color: #fa558f;
+}
+#recommend .recommend p{
+    color: #999;
+    width: 1030px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+#recommend .recommend .see-detail{
+    width: 100px;
+    height: 40px;
+    color: #ffffff;
+    background: #fa558f;
+    display: block;
+    font-size: 15px;
+    border: 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#recommend .recommend .see-detail:hover{
+    background: #E92D50;
+    color: #ffffff;
+}
+
+
+
+
+
+
+

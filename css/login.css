@@ -1,0 +1,98 @@
+#header{
+    background: url(../img/banner33.jpg) no-repeat center;
+    height: 250px;
+    background-size: cover;
+}
+#login-container{
+    margin-top: 30px;
+    overflow: hidden;
+    height: 480px;
+}
+#login-container form{
+    width: 570px;
+    height: 290px;
+    float: left;/*//原因：块级元素，占一行，右侧上不来*/
+}
+#login-container h5{
+    color: #5d5959;
+    font-size: 20px;
+}
+#login-container label{
+    display: block;
+    margin-top: 20px;
+}
+#login-container label input{
+    width: 400px;
+    height: 38px;
+    outline: none;
+    text-indent: 10px;
+    font-size: 20px;
+}
+.btn{
+    width: 114px;
+    height: 41px;
+    border: 0;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+#login-container input[value="login"]{
+    background: #EF8743;
+    color: #ffffff;
+}
+#login-container input[value="login"]:hover{
+    background: #ffffff;
+    color: #000;
+    border: 1px solid #999;
+}
+#forget{
+    color: #5d5959;
+    cursor: pointer;
+    text-decoration: underline;
+    display: block;
+    margin-top: 20px;
+}
+#register{
+    width: 540px;
+    float: right;
+}
+#register h3{
+    color: #EF8743;
+}
+#register p{
+    color: #999;
+    margin: 20px 0;
+}
+#register .btn{
+    background: #ffffff;
+    color: #000;
+    border: 1px solid #999;
+    display: block;
+    text-align: center;
+    line-height: 41px;
+}
+
+#register .btn:hover{
+    background: #EF8743;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
