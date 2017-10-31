@@ -31,7 +31,13 @@
     right: 10px;
 }
 #menu .submenu{
-    display: none;
+    /*display: none;*/
+    height: 0;
+    overflow: hidden;
+}
+#menu .submenu li:hover{
+    color: orange;
+    text-decoration: underline;
 }
 #brand label{
     color: #555;
